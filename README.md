@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
