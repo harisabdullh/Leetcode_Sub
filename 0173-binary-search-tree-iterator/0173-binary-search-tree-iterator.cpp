@@ -11,36 +11,35 @@
  */
 class BSTIterator {
 public:
- int idx=1;
-        vector<int>arr;
-int count(TreeNode*root){
-    if(root==NULL)return 0;
-    return 1+count(root->left)+count(root->right);
-}
-void fill(TreeNode*root,vector<int>&arr){
+void pushallroots(TreeNode*root,stack<TreeNode*>&st){
     if(root==NULL)return;
-    fill(root->left,arr);
-    arr.push_back(root->val);
-    fill(root->right,arr);
+    st.push(root);
+    pushallroots(root->left,st);
+    return;
 }
-       
+stack<TreeNode*>st;
+
     BSTIterator(TreeNode* root) {
-        arr.push_back(-1);
-        //count number of nodes in bst and make n+1 array
-        int ct=count(root);
-        fill(root,arr);
-
-
+        pushallroots(root,st);
     }
     
     int next() {
-        int x=arr[idx++];
+        int x=st.top()->val;
+        TreeNode*temp=st.top();
+        st.pop();
+        if(temp->right!=NULL){
+            pushallroots(temp->right,st);
+            
+        }
         return x;
+
     }
     
     bool hasNext() {
-        if(idx<arr.size())return true;
-        return false;
+        if(!st.empty())return true;
+        else{
+            return false;
+        }
     }
 };
 
