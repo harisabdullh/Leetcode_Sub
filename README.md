@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
