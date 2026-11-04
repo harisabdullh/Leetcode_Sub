@@ -11,5 +11,9 @@ public:
         }
         return cnt;
 
+
+
+//or can be solved by getting the largest element from array , and then you know the drill
+// TC === O(2N) max
     }
 };
