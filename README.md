@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
