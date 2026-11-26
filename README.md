@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1020-number-of-enclaves) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0733-flood-fill](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1020-number-of-enclaves) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harisabdullh/Leetcode_Sub/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -157,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/harisabdullh/Leetcode_Sub/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/harisabdullh/Leetcode_Sub/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
